@@ -9,3 +9,7 @@ display: block;
 border: 1px solid purple;
 margin: 25px;
 }
+
+.n-child section:nth-child(2n) {
+border: 1px solid green;
+}
