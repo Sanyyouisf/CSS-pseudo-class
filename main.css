@@ -1,0 +1,15 @@
+
+.top li {
+	display: inline-block;
+	list-style-type: none;
+}
+
+ .inline {
+display: block;
+border: 1px solid purple;
+margin: 25px;
+}
+
+.n-child section:nth-child(2n) {
+border: 1px solid green;
+}
